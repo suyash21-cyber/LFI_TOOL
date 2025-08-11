@@ -13,5 +13,5 @@ Key Features
 📝 Flexible Output: Saves all findings to a clean, organized text file.
 
 RUN TOOL
-python lfi_scanner.py -f urls.txt
+python3 lfi_scanner.py -f urls.txt
 
